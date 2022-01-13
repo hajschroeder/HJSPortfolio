@@ -1,0 +1,23 @@
+*{
+  font-family: 'Rajdhani', sans-serif;
+  color: white
+}
+body {
+  background-color: black;
+}
+
+.header {
+  width: 100%;
+  padding: 50px;
+  border: solid silver;
+  border-width: 15px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.header img {
+  float: right;
+  width: 40%;
+  height: auto;
+}
+
