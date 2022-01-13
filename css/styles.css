@@ -21,3 +21,14 @@ body {
   height: auto;
 }
 
+.about {
+  width: 60%;
+  padding:50px;
+  border: none;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
+.about h2{
+  text-align: center;
+}
+
