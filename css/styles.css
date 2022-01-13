@@ -32,3 +32,15 @@ body {
   text-align: center;
 }
 
+.epic {
+  font-weight: bold;
+}
+
+.history {
+  width: 60%;
+  padding:50px;
+  border: none;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+  float: right;
+}
